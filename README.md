@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview
+## Election Audit Overview
 A Colorado Board of Elections employee has requested the following
 
 1. Calculate the total number of votes cast
@@ -15,9 +15,9 @@ A Colorado Board of Elections employee has requested the following
 
 ## Summary
 The Analysis of the election show that:
-- There were total of 369,711 votes cast in the election.
+- There were total of **369,711** votes cast in the election.
 
-The following candidates recieved votes:
+The following is a list of candidates that recived votes:
 1. Charles Casper Stockham
 2. Diana DeGette
 3. Raymon Anthony Doane
@@ -28,7 +28,7 @@ The following candidates recieved votes:
 3. Raymon Anthony Doane recieved **3.1%** of total votes with **11,606** votes.
 
 ### Candidate Winner
-Based on the popular vote, Diana DeGette was the election winner with 73.8% of the total votes and 272,892 votes.
+Based on the popular vote, **Diana DeGette** was the election winner with **73.8%** of the total votes and **272,892** votes.
 
 ## Challenge Overview
 
