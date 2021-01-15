@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Election Audit Overview
+## Project Overview
 A Colorado Board of Elections employee has requested the following
 
 1. Calculate the total number of votes cast
@@ -30,6 +30,6 @@ The following is a list of candidates that recived votes:
 ### Candidate Winner
 Based on the popular vote, **Diana DeGette** was the election winner with **73.8%** of the total votes with **272,892** votes.
 
-## Challenge Overview
+## Election Audit Overview
 
-## Challenge Summary
+## Election Audit Summary
