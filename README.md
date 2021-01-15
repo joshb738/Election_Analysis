@@ -28,7 +28,7 @@ The following is a list of candidates that recived votes:
 3. Raymon Anthony Doane recieved **3.1%** of total votes with **11,606** votes.
 
 ### Candidate Winner
-Based on the popular vote, **Diana DeGette** was the election winner with **73.8%** of the total votes and **272,892** votes.
+Based on the popular vote, **Diana DeGette** was the election winner with **73.8%** of the total votes with **272,892** votes.
 
 ## Challenge Overview
 
