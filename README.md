@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project OVerview
-A Colorado Board of Elections employee has given the 
+A Colorado Board of Elections employee has requested the following
 
 1. Calculate the total number of votes cast
 2. Get a complete list of candidates who recieved votes.
