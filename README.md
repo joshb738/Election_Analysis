@@ -17,7 +17,7 @@ A Colorado Board of Elections employee has requested the following
 The Analysis of the election show that:
 - There were total of 369,711 votes cast in the election.
 
-The following candidates recievedvotes:
+The following candidates recieved votes:
 1. Charles Casper Stockham
 2. Diana DeGette
 3. Raymon Anthony Doane
