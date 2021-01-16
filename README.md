@@ -6,7 +6,9 @@ The following analysis of a local congressional election was completed to provid
 1. A total number of votes cast.
 2. A complete list of all candidates that recieved votes.
 3. The percentage of votes each candidate won as well as the total number of votes each candidate recieved.
-4. The election winner based on popular vote.
+4. The number of votes and the percentage of total votes for each county in the precinct
+5. County with the largest number of votes.
+5. The election winner based on popular vote.
 
 ## Resources 
 - Data Sources: [election_results.csv](resources/election_results.csv)
