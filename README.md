@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview
+## Election Audit Overview
 Analysis of a local congressional election was performed to provide the Colorado Board of Elections with the following details:
 
 1. A total count of votes cast in the election.
