@@ -40,4 +40,8 @@ The Analysis of the election show that:
 
 ## Election Audit summary
 The python script used to perform this analysis can be reused to analyze any election with the following minor modifications:
-1. 
+1. Edit line **#8** of the scrip to make sure the correct source file is being used 
+   - file_to_load = os.path.join("resources", "**election_results.csv**")
+2. Edit lines **#47 & 50** to match the correct column indexes the new data source.
+   - candidate_name = row**[**2**]
+   - county_name = row[**1**]
