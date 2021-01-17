@@ -1,11 +1,11 @@
 # Election_Analysis
 
 ## Project Overview
-The following analysis of a local congressional election was completed to provide the Colorado Board of Elections with the following details:
+The following analysis of a local congressional election was performed to provide the Colorado Board of Elections with the following details:
 
 1. A total number of votes cast.
 2. A complete list of all candidates that received votes.
-3. The percentage of total votes and total number of votes for each county in the precinct.
+3. The percentage of total votes and total number of votes cast from each county in the precinct.
 4. The County with the largest voter turnout.
 5. The percentage of votes each candidate won as well as the total number of votes each candidate received.
 6. The election winner based on popular vote.
@@ -14,7 +14,7 @@ The following analysis of a local congressional election was completed to provid
 - Data Sources: [election_results.csv](resources/election_results.csv)
 - Software: Python 3.9.1, Visual Studio Code, 1.52.1
 
-## Summary
+## Election Audit Results
 The Analysis of the election show that:
 
 1.  A total of **369,711** votes were cast in this election.
@@ -38,4 +38,5 @@ The Analysis of the election show that:
 
 6. Based on the popular vote, **Diane DeGette** was the winner of the election with **73.8%** of the total vote and **272,892** votes.
 
+## Election Audit Summary
 
