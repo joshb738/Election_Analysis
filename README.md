@@ -43,5 +43,5 @@ The python script used for this analysis can be repurposed to analyze other elec
 1. Edit line **#8** of the script to make sure the correct source file is being used 
    - file_to_load = os.path.join("resources", "***election_results.csv***")
 2. Edit lines **#47 & 50** to match the correct column indexes the new data source.
-   - candidate_name = row**[***2***]
+   - candidate_name = row[***2***]
    - county_name = row[***1***]
