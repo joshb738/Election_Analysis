@@ -38,6 +38,6 @@ The Analysis of the election show that:
 
 6. Based on the popular vote, **Diane DeGette** was the winner of the election with **73.8%** of the total vote and **272,892** votes.
 
-## Election Audit Summary
-This python script can be reused to analyze any election data with the following minor modifications:
-- 
+## Election Audit summary
+The python script used to perform this analysis can be reused to analyze any election with the following minor modifications:
+1. 
