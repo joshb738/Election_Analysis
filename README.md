@@ -19,9 +19,8 @@ The Analysis of the election show that:
 1. A total of **369,711** votes were cast in this election.
 
 2. The following is a list of candidates that recived votes:
-    a) Charles Casper Stockham
-    b) Diana DeGette
-    c) Raymon Anthony Doane
+   a) Charles Casper Stockham
+   - Diana DeGetteRaymon Anthony Doane
 
 **Candidate Results were as follows:**
 1. Charles Casper Stockham recieved **23.0%** of the total vote with **85,213** votes.
