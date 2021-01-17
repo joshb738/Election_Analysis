@@ -3,7 +3,7 @@
 ## Project Overview
 The following analysis of a local congressional election was performed to provide the Colorado Board of Elections with the following details:
 
-1. A total number of votes cast.
+1. A total count of votes cast.
 2. A complete list of all candidates that received votes.
 3. The percentage of total votes and total number of votes cast from each county in the precinct.
 4. The County with the largest voter turnout.
