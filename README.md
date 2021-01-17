@@ -16,9 +16,10 @@ The following analysis of a local congressional election was completed to provid
 
 ## Summary
 The Analysis of the election show that:
+
 1. A total of **369,711** votes were cast in this election.
 
-2. The following is a list of candidates that recived votes:
+2. The following candidates recived votes:
    - Charles Casper Stockham
    - Diana DeGette
    - Raymon Anthony Doane
